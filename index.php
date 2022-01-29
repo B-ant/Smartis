@@ -19,6 +19,5 @@
 			<div class="wait"><span>Wait...</span></div>
 		</form>
 		<div class="result" id="result"></div>
-	</body>
-	<!-- -->
+	</body>	
 </html>
