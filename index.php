@@ -20,4 +20,5 @@
 		</form>
 		<div class="result" id="result"></div>
 	</body>
+	<!-- -->
 </html>
