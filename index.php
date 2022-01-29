@@ -21,4 +21,7 @@
 		<div class="result" id="result"></div>
 	</body>
 	<!-- -->
+	<script>
+	alert();
+	</script>
 </html>
